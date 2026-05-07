@@ -1,2 +1,3 @@
 [2026-05-05 09:12:59] feat: initialize Aura Store landing page structure
 [2026-05-06 13:11:46] style: implement dark-mode first radial gradient background
+[2026-05-07 09:55:44] feat: add glassmorphic header navigation bar
