@@ -6,3 +6,4 @@
 [2026-05-10 16:04:23] feat: design responsive grid layout for product listings
 [2026-05-11 12:55:52] style: add smooth hover animations to product cards
 [2026-05-12 15:34:27] feat: implement cart drawer and add-to-cart operations
+[2026-05-13 15:07:41] feat: connect to fakestoreapi for products and categories data
