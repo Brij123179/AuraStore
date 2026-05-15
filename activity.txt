@@ -8,3 +8,4 @@
 [2026-05-12 15:34:27] feat: implement cart drawer and add-to-cart operations
 [2026-05-13 15:07:41] feat: connect to fakestoreapi for products and categories data
 [2026-05-14 12:03:58] fix: resolve mobile navigation toggling bug
+[2026-05-15 13:20:08] perf: implement useProducts custom hook for unified api calls
