@@ -1,0 +1,11 @@
+🚀 Excited to share my latest project, Aura Store! 🚀
+
+I've been working on a fully responsive landing page for an e-commerce platform as part of my web development internship. It features a modern design, dark-mode aesthetics, and a clean user interface. 
+
+Check it out here:
+🌐 Live Demo: https://aurastoreas.netlify.app/
+💻 GitHub Repo: https://github.com/Brij123179/AuraStore
+
+A huge thanks to @Synent Technologies for this incredible learning opportunity! 
+
+#internship #webdevelopment #learning #technology #reactjs #frontend #ecommerce
