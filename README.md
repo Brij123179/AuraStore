@@ -1,13 +1,16 @@
-# E-Commerce Frontend Capstone Project 🚀
+# Synent Technologies Web Development Internship - Task 2
+## Responsive Landing Page (Aura Store)
 
-A highly responsive, modern, and aesthetic e-commerce frontend built with React, Vite, and Context API. This project serves as a comprehensive demonstration of advanced frontend development concepts.
+**Repository Naming Format:** `synent-task2-landingpage-[yourname]`
 
 ## 📋 Project Overview
-This application is a fully functional e-commerce storefront. Key objectives achieved include:
-- A dynamic product catalog using the FakeStore API.
-- Complex state management for the shopping cart and user authentication simulations.
-- A seamless checkout experience with form processing and cart clearing.
-- Premium web design featuring glassmorphism elements, custom micro-animations, and dynamic rendering.
+This project is a fully responsive landing page for "Aura Store", designed as part of the Synent Technologies Web Development Internship.
+
+Key features include:
+- **Hero Section:** With a clear call to action.
+- **Features Section:** Highlighting 4 key features (Free Shipping, Secure Payment, 24/7 Support, Easy Returns).
+- **Responsive Grid:** Proper layout across both mobile and desktop views.
+- **Footer:** With quick links, legal links, and branding.
 
 ## 🛠 Setup Instructions
 To run this project locally, ensure you have Node.js installed.
@@ -92,3 +95,14 @@ All external interactions happen through the RESTful FakeStore API `https://fake
 
 ## 🚧 Challenges Faced 
 A primary challenge involved efficiently coordinating state updates for local cart storage simultaneously alongside local state quantity updates rendering inside the Cart panel. We mitigated desynchronization issues by deriving calculated Cart quantities (`cartCount` and `cartTotal`) directly from the primary immutable `cartItems` state array inside the Cart Provider, establishing a single source of truth. Additionally, migrating Vite setups to ensure consistent `.jsx` execution while staying within rubric expectations required adjusting Vite configurations explicitly.
+
+---
+## Submission Requirements Checklist
+- [x] HTML/CSS or React-based Fully responsive design
+- [x] Includes Hero section
+- [x] Includes Features (3-4 items)
+- [x] Includes Footer
+- [x] Proper layout on mobile and desktop
+- [ ] Minimum 5 meaningful commits (To be done in Git)
+- [ ] Demonstration video link: *[Insert your LinkedIn or YouTube video link here]*
+- [ ] Share on LinkedIn tagging @Synent Technologies with hashtags #internship #webdevelopment #learning #technology
