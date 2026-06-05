@@ -104,5 +104,5 @@ A primary challenge involved efficiently coordinating state updates for local ca
 - [x] Includes Footer
 - [x] Proper layout on mobile and desktop
 - [ ] Minimum 5 meaningful commits (To be done in Git)
-- [ ] Demonstration video link: *[Insert your LinkedIn or YouTube video link here]*
-- [ ] Share on LinkedIn tagging @Synent Technologies with hashtags #internship #webdevelopment #learning #technology
+- [x] Demonstration video link: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7468778587672727552/)
+- [x] Share on LinkedIn tagging @Synent Technologies with hashtags #internship #webdevelopment #learning #technology
